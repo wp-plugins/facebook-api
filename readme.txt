@@ -34,10 +34,10 @@ Best is to install directly from WordPress. If manual installation is required, 
 
 == Screenshots ==
 
-1. TinyMCE shortcode list.
-2. TinyMCE shortcode pop-up features.
-3. 4 Widget(Like Box, Embedded Post, Follow Button and Login Button).
-4. Facebook API show on page.
+1. TinyMCE shortcode list
+2. TinyMCE shortcode pop-up features
+3. 4 Widget(Like Box, Embedded Post, Follow Button and Login Button)
+4. Facebook API show on page
 
 == Changelog ==
 
