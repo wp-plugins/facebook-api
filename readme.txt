@@ -32,15 +32,15 @@ Major features in FACEBOOK API include:
 
 Best is to install directly from WordPress. If manual installation is required, please make sure that the plugin files are in a folder named "facebook-api" (not two nested folders) in the WordPress plugins folder, usually "wp-content/plugins".
 
-== Changelog ==
-
-= 1.0 =
-* Make it 1 January, 2015 (New Year Gift)
-
-
 == Screenshots ==
 
 1. TinyMCE shortcode list.
 2. TinyMCE shortcode pop-up features.
 3. 4 Widget(Like Box, Embedded Post, Follow Button and Login Button).
 4. Facebook API show on page.
+
+== Changelog ==
+
+= 1.0 =
+* Make it 1 January, 2015 (New Year Gift)
+
