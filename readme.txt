@@ -1,5 +1,5 @@
 === Facebook API ===
-Contributors: Dipto Paul
+Contributors: dipto99
 Tags: facebook, api, facebook-api, like-box, embedded-post, comments, follow, share, send, like, login, button, widget, shortcode
 Requires at least: 3.9
 Tested up to: 4.1
